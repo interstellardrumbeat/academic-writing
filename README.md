@@ -16,9 +16,10 @@ The full thesis is provided as `PhD_Thesis_Prudenzano_Domenico.pdf`.
 1. Introduction - Overview of astrochemistry and spectroscopy theory 
 2. Instrumentation — Overview of the experimental design employed
 3. Rotational spectroscopy and solid-phase study of dithioformic acid, HCSSH - Contains a published paper on gas-phase HCSSH and an additional solid-phase study  
-4. Accurate millimetre ans submillimetre rest frequencies for __E-__ and __Z-__propargylimine, HCCCNHN - Contains a published paper on gas-phase HCCCHNH
-5. Collisional excitation of NH(<sup>3</sup>$\Sigma$<sup>-</sup>) by Ar: a new __ab initio__ 3D Potential Energy Surface and scattering calculations - Contains a published paper on a computational study of NH-Ar collisional excitation
+4. Accurate millimetre ans submillimetre rest frequencies for _E-_ and _Z-_propargylimine, HCCCNHN - Contains a published paper on gas-phase HCCCHNH
+5. Collisional excitation of NH(<sup>3</sup>$\Sigma$<sup>-</sup>) by Ar: a new _ab initio_ 3D Potential Energy Surface and scattering calculations - Contains a published paper on a computational study of NH-Ar collisional excitation
 6. Conclusions
 - Appendix A. HCSSH: theoretical calculations - contains details on computational results for Chapter 3
 - Appendix B. HCCCHNH: theoretical calculations - contains details on computational results for Chapter 4
 - Bibliography
+
