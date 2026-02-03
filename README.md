@@ -1,5 +1,5 @@
 ## Overview
-This repository contains my PhD thesis, which includes my first-author peer-reviewed publications as some of its thesis chapters.
+This repository contains my PhD thesis, which includes my first-author peer-reviewed publications as some of its chapters.
 
 The material here demonstrates my experience in **scientific writing** at an advanced level, including long-form structured documents and publication-ready manuscripts.
 
@@ -22,6 +22,7 @@ The full thesis is provided as `PhD_Thesis_Prudenzano_Domenico.pdf`.
 - **Appendix A. HCSSH: theoretical calculations** — Details on computational results for Chapter 3
 - **Appendix B. HCCCHNH: theoretical calculations** — Details on computational results for Chapter 4
 - **Bibliography**
+
 
 
 
