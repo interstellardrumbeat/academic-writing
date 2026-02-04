@@ -3,7 +3,7 @@
 ## Overview
 This repository contains my PhD thesis, which includes my first-author peer-reviewed publications as some of its chapters.
 
-> Note for recruiters: the material here demonstrates my experience in **scientific writing** at an advanced level, including long-form structured documents and publication-ready manuscripts.
+> Note for recruiters: The material here demonstrates my experience in **scientific writing** at an advanced level, including long-form structured documents and publication-ready manuscripts.
 
 ## PhD Thesis
 - **Title:** Molecules of astrochemical interest: theoretical and experimental studies
@@ -24,3 +24,4 @@ The full thesis is provided as [`PhD_Thesis_Prudenzano_Domenico.pdf`](PhD_Thesis
 - **Appendix A. HCSSH: theoretical calculations** — Details on computational results for Chapter 3
 - **Appendix B. HCCCHNH: theoretical calculations** — Details on computational results for Chapter 4
 - **Bibliography**
+
