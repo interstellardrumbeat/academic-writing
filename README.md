@@ -3,7 +3,7 @@
 ## Overview
 This repository contains my PhD thesis, which includes my first-author peer-reviewed publications as some of its chapters.
 
-> **For recruiters:** The material here demonstrates my experience in **scientific writing** at an advanced level, including long-form structured documents and publication-ready manuscripts.
+> **For Recruiters:** The material here demonstrates my experience in **scientific writing** at an advanced level, including long-form structured documents and publication-ready manuscripts.
 
 ## PhD Thesis
 - **Title:** Molecules of astrochemical interest: theoretical and experimental studies
